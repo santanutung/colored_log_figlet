@@ -2,8 +2,6 @@ from termcolor import colored
 from pyfiglet import Figlet
 
 
-
-
 f=Figlet(font='standard')
 # f=Figlet(font='banner3-D')
 # f=Figlet(font='slant')
